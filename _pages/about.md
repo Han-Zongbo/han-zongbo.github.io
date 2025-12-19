@@ -59,4 +59,6 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Peilong Wu** | 天大 '24 硕 (在读) | 📄 论文在投 |
 | **Jialong Yang** | 天大 '21 本，天大 '25硕 (在读) | 📄 *Dota: Distributional test-time adaptation* (**NeurIPS**) |
 
+感谢导师和师弟师妹们的信任。
+
 
