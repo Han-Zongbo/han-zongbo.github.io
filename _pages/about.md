@@ -39,3 +39,17 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 # 🌍 Exchange Experience
 - *2023.10 - 2024.10*, Show Lab, Visiting Student, Mentored by Mike Zheng Shou.
 - *2021.06 - 2022.07*, Tencent AI Lab, Internship, Mentored by Jianhua Yao, Fan Yang, and Bingzhe Wu.
+
+# 🎓 指导学生情况与致谢
+我曾经有幸与天津大学张长青老师联合指导过很多天赋异禀的本科生和硕士生师弟师妹：
+| 学生姓名 | 背景与现状 | 合作工作 |
+| :--- | :--- | :--- |
+| **Bolian Li** | 天大 '18 本 $\to$ **Purdue University** (PhD) | 📄 *Trustworthy Long-Tailed Classification* (**CVPR**) |
+| **Yifeng Yang** | 天大 '20 本 $\to$ **上海交通大学** (PhD) | 📄 *Selective learning: Towards robust calibration with dynamic regularization* |
+| **Tianchi Xie** | 天大 '20 本 $\to$ **清华大学** | 📄 *Semantic Equivariant Mixup* |
+| **Huan Ma** | 天大 '20 硕 $\to$ **天津大学** (PhD) | 📄 *Trustworthy Multimodal Regression...* (**NeurIPS**) |
+| **Yichen Bai** | 天大 '21 硕 $\to$ **蚂蚁金服** | 📄 *ID-like Prompt Learning for Few-Shot OOD Detection* (**CVPR**) |
+| **Mengyao Xie** | 天大 '21 硕 $\to$ **中国银行** | 📄 *Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification* (**CVPR**) |
+| **Haiyun Yao** | 天大 '22 硕 $\to$ **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
+| **Leyan Xue** | 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**)|
+| **Jialong Yang** | 天大 '21 本，天大 ‘25硕 （在读） | 📄 *Dota: Distributional test-time adaptation* (**NeurIPS**) |
