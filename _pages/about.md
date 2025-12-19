@@ -51,7 +51,8 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Huan Ma** | 天大 '20 硕 → **天津大学** (PhD) | 📄 *Trustworthy Multimodal Regression...* (**NeurIPS**) |
 | **Yichen Bai** | 天大 '21 硕 → **蚂蚁金服** | 📄 *ID-like Prompt Learning for Few-Shot OOD Detection* (**CVPR**) |
 | **Mengyao Xie** | 天大 '17 本，天大 '21 硕 → **中国银行** | 📄 *Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification* (**CVPR**) |
-| **Haiyun Yao** | 天大 '22 硕 → **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
+| **Haiyun Yao** | 天大 '18 本，天大 '22 硕 → **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
+| **Peizhuo Sheng** | 天大 '18 本， 天大 '22 硕  → **建设银行** | 师妹志不在科研 |
 | **Leyan Xue** | 天大 '20 本， 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**) |
 | **Xuandong Tang** | 天大 '20 本，天大 '24硕 (在读) | 📄 论文在投|
 | **Peilong Wu** | 天大 '24 硕 (在读) | 📄 论文在投 |
