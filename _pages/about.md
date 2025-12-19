@@ -43,7 +43,6 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 # 🎓 指导学生情况与致谢
 我曾经有幸与天津大学张长青老师联合指导过很多天赋异禀的本科生和硕士生师弟师妹：
 
-
 | 学生姓名 | 背景与现状 | 合作工作 |
 | :--- | :--- | :--- |
 | **Bolian Li** | 天大 '18 本 → **Purdue University** (PhD) | 📄 *Trustworthy Long-Tailed Classification* (**CVPR**) |
@@ -54,4 +53,8 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Mengyao Xie** | 天大 '21 硕 → **中国银行** | 📄 *Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification* (**CVPR**) |
 | **Haiyun Yao** | 天大 '22 硕 → **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
 | **Leyan Xue** | 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**) |
+| **Xuandong Tang** | 天大 '21 本，天大 '25硕 (在读) | 📄 论文在投|
+| **Peilong Wu** | 天大 '21 本，天大 '25硕 (在读) | 📄 论文在投 |
 | **Jialong Yang** | 天大 '21 本，天大 '25硕 (在读) | 📄 *Dota: Distributional test-time adaptation* (**NeurIPS**) |
+
+
