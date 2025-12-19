@@ -57,7 +57,7 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Leyan Xue** | 天大 '20 本， 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**) |
 | **Xuandong Tang** | 天大 '20 本，天大 '24硕 (在读) | 📄 论文在投|
 | **Peilong Wu** | 天大 '24 硕 (在读) | 📄 论文在投 |
-| **Jialong Yang** | 天大 '21 本，天大 '25硕 (在读) | 📄 *Dota: Distributional test-time adaptation* (**NeurIPS**) |
+| **Jialong Yang** | 天大 '21 本，天大 '25硕 (在读) | 📄 *DOTA: Distributional Test-Time Adaptation of Vision-Language Models* (**NeurIPS**) |
 
 感谢导师和师弟师妹们的信任。
 
