@@ -41,7 +41,7 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 - *2021.06 - 2022.07*, Tencent AI Lab, Internship, Mentored by Jianhua Yao, Fan Yang, and Bingzhe Wu.
 
 # 🎓 指导学生情况与致谢
-我曾经有幸与天津大学张长青老师联合指导过很多天赋异禀的本科生和硕士生师弟师妹：
+我曾经有幸与天津大学张长青老师联合指导过很多师弟师妹，感谢导师和师弟师妹们的信任。
 
 | 学生姓名 | 背景与现状 | 合作工作 |
 | :--- | :--- | :--- |
@@ -53,12 +53,11 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Mengyao Xie** | 天大 '17 本，天大 '21 硕 → **中国银行** | 📄 *Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification* (**CVPR**) |
 | **Haiyun Yao** | 天大 '18 本，天大 '22 硕 → **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
 | **Ruisong Han** | 天大 '22 硕  → **江苏银行** | Retrieval-Augmented Prompt for OOD Detection（在投） |
-| **Peizhuo Sheng** | 天大 '18 本， 天大 '22 硕  → **建设银行** | 师妹时运不济，论文屡投不中 |
+| **Peizhuo Sheng** | 天大 '18 本， 天大 '22 硕  → **建设银行总行** |  |
 | **Leyan Xue** | 天大 '20 本， 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**) |
 | **Xuandong Tang** | 天大 '20 本，天大 '24硕 (在读) | 📄 论文在投|
 | **Peilong Wu** | 天大 '24 硕 (在读) | 📄 论文在投 |
 | **Jialong Yang** | 天大 '21 本，天大 '25硕 (在读) | 📄 *DOTA: Distributional Test-Time Adaptation of Vision-Language Models* (**NeurIPS**) |
 
-感谢导师和师弟师妹们的信任。
 
 
