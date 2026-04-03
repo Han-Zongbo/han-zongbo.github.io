@@ -2,7 +2,7 @@
 permalink: /internship/
 title: "关于研究生实习的说明"
 excerpt: ""
-author_profile: true
+author_profile: false
 ---
 
 # 关于研究生实习的说明
