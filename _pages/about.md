@@ -37,7 +37,7 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 - *2015.09 - 2019.06*, Dalian University of Technology, Bachelor's in Communication Engineering.
 
 # 🌍 Exchange Experience
-- *2023.10 - 2024.10*, Show Lab, Visiting Student, Mentored by Mike Zheng Shou.
+- *2023.10 - 2024.10*, Show Lab, National University of Singapore, Visiting Student, Mentored by Mike Zheng Shou.
 - *2021.06 - 2022.07*, Tencent AI Lab, Internship, Mentored by Jianhua Yao, Fan Yang, and Bingzhe Wu.
 
 # 🎓 指导学生情况与致谢
@@ -53,7 +53,7 @@ I am currently a tenure-track assistant professor at Beijing University of Posts
 | **Mengyao Xie** | 天大 '17 本，天大 '21 硕 → **中国银行** | 📄 *Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification* (**CVPR**) |
 | **Haiyun Yao** | 天大 '18 本，天大 '22 硕 → **天津大学** (PhD) | 📄 *Out-Of-Distribution Detection with Diversification (Provably)* (**NeurIPS**) |
 | **Ruisong Han** | 天大 '22 硕  → **江苏银行** | 📄 Retrieval-Augmented Prompt for Out-of-Distribution Detection (**Pattern Recognition**) |
-| **Peizhuo Sheng** | 天大 '18 本， 天大 '22 硕  → **建设银行总行** |  |
+| **Peizhuo Sheng** | 天大 '18 本， 天大 '22 硕  → **建设银行总行** | **电子学报** |
 | **Leyan Xue** | 天大 '20 本， 天大 '24 硕 (在读) | 📄 *MULTIBENCH++: A Unified and Comprehensive Multimodal Fusion Benchmarking* (**AAAI**) |
 | **Xuandong Tang** | 天大 '20 本，天大 '24硕 (在读) | 📄 论文在投|
 | **Peilong Wu** | 天大 '24 硕 (在读) | 📄 论文在投 |
